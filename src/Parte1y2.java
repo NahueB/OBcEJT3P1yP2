@@ -1,4 +1,4 @@
-public class Parte1
+public class Parte1y2
 {
     public static void main(String[] args)
     {
